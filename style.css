@@ -1,0 +1,21 @@
+body {
+    background-color: dimgray;
+}
+
+h1,h2 {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.Image {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    margin: auto;
+    list-style-type: square;
+    list-style-position: inside;
+
+}
