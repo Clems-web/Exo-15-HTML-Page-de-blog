@@ -1,8 +1,8 @@
 body {
-    background-color: dimgray;
+    background-image: url("background kermit.jpg");
 }
 
-h1,h2 {
+h1,h2,h3 {
     text-align: center;
     text-decoration: underline;
     color: white;
@@ -10,6 +10,7 @@ h1,h2 {
 
 .Image {
     text-align: center;
+    color: white;
 }
 
 li {
@@ -17,5 +18,10 @@ li {
     margin: auto;
     list-style-type: square;
     list-style-position: inside;
+    color: white;
 
+}
+
+p {
+    color: white;
 }
